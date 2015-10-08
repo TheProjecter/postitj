@@ -1,0 +1,1 @@
+postit is a useful software is build a sharing public or private desktop on your browser. Post-It notes are created to the desktop. It is used to personal aim to brainstorm your idea or public aim to sharing ideas
